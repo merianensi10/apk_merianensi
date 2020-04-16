@@ -22,6 +22,8 @@ class ProfilPage extends StatelessWidget {
                 style: new TextStyle(fontSize: 20.0)),
             Text("1717051015",
                 style: new TextStyle(fontSize: 16.0)),
+             Text("Ilmu Komputer 2017",
+                style: new TextStyle(fontSize: 16.0)),
             Text("nensidiayulestari10@gmail.com",
                 style: new TextStyle(fontSize: 16.0)),
                 ]
