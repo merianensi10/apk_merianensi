@@ -203,7 +203,7 @@ class _DashboardState extends State<Dashboard>{
                   return ListMhsPage();
                 }));
               },
-              color: Colors.purple,
+              color: Colors.blue,
               textColor: Colors.white, 
               child: Text("Daftar My Family")),
             )),
@@ -217,7 +217,7 @@ class _DashboardState extends State<Dashboard>{
                   return ProfilPage();
                 }));
               },
-              color: Colors.purple,
+              color: Colors.blue,
               textColor: Colors.white, 
               child: Text("My Profil")),
             )),
@@ -229,7 +229,7 @@ class _DashboardState extends State<Dashboard>{
               child: new RaisedButton(onPressed: () {
                 signOut();
               },
-              color: Colors.purple,
+              color: Colors.blue,
               textColor: Colors.white, 
               child: Text("Logout")),
             )),
