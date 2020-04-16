@@ -205,7 +205,7 @@ class _DashboardState extends State<Dashboard>{
               },
               color: Colors.red,
               textColor: Colors.white, 
-              child: Text("Daftar Mahasiswa")),
+              child: Text("Daftar My Family")),
             )),
             
             ButtonTheme(
@@ -219,7 +219,7 @@ class _DashboardState extends State<Dashboard>{
               },
               color: Colors.red,
               textColor: Colors.white, 
-              child: Text("Profil")),
+              child: Text("My Profil")),
             )),
 
             ButtonTheme(
